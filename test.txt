@@ -1,6 +1,10 @@
 create test.txt file
 modified file
 1 2 3
+<<<<<<< HEAD
 4 5
 Trường Béo
 Nghĩa Liệt
+=======
+tai` beo'
+>>>>>>> fc1a594c1b8eb45fcdbe5ee697fc8740827de488

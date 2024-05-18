@@ -1,6 +1,0 @@
-create test.txt file
-modified file
-1 2 3
-4 5
-Trường Béo
-Nghĩa Liệt
